@@ -1,0 +1,26 @@
+numberOfInputs 0
+numberOfOutputs 1
+numberOfInterNeurons 0
+networkDimension 1
+networkActivations
+0.000000
+networkOutputs
+0.000000
+neuronThreshold
+-0.500000
+neuronLearningRate
+0.000000
+neuronRefactoryState
+0.000000
+neuronWeightTotal
+1.000000
+networkweights
+0.500000
+
+networkinputs
+
+networkoutputs
+0.000000
+networkplasticweightsmask
+0
+

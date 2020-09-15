@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1598954432 source:c:\users\yeepa\onedrive\desktop\singlematrixnetwork-py\newsmn\network.cpp
+	"stdAfx.h"
+	"Network.h"
+	<stdio.h>
+	<math.h>
+
+1592759862 c:\users\yeepa\onedrive\desktop\singlematrixnetwork-py\newsmn\stdafx.h
+
+1592786846 c:\users\yeepa\onedrive\desktop\singlematrixnetwork-py\newsmn\network.h
+	<stdio.h>
+	<string>
+	<vector>
+
+1598954225 source:c:\users\yeepa\onedrive\desktop\singlematrixnetwork-py\newsmn\singlematrixnetwork.cpp
+	"stdAfx.h"
+	"Network.h"
+	<math.h>
+	<stdio.h>
+
+1592759913 source:c:\users\yeepa\onedrive\desktop\singlematrixnetwork-py\newsmn\stdafx.cpp
+	"stdafx.h"
+
